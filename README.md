@@ -1,1 +1,1 @@
-# riopranata-s-resume
+# riopranata-resume
